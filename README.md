@@ -1,22 +1,28 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time is an Android app to help those who are short on time but still want to maintain a fit and active lifestyle. Given an input of the type and amount of exercise, you’ll be able to see how many calories you’ve burned as well as the equivalent amount of another type of exercise. Exercises currently supported include: pushups, situps, squats, leg-lifts, planks, jumping jacks, pullups, cycling, walking, jogging, swimming, and stair-climbing.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Audrey Leung ([audreycml@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time App (CS260A Spring 2016)] (https://youtu.be/MZRQgCjjJ8o)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC3.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC4.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC5.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC6.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC7.png" height="400" alt="Screenshot"/>
+<img src="screenshots/TC8.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Android Tutorial: https://www.udemy.com/the-complete-android-developer-course/
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+
