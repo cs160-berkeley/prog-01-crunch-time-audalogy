@@ -4,7 +4,7 @@ Crunch Time is an Android app to help those who are short on time but still want
 
 ## Authors
 
-Audrey Leung ([audreycml@berkeley.edu](mailto:your_email@berkeley.edu))
+Audrey Leung ([audrey@ischool.berkeley.edu](mailto:audrey@ischool.berkeley.edu))
 
 ## Demo Video
 
@@ -24,5 +24,4 @@ See [Crunch Time App (CS260A Spring 2016)] (https://youtu.be/MZRQgCjjJ8o)
 ## Acknowledgments
 
 * Android Tutorial: https://www.udemy.com/the-complete-android-developer-course/
-
 
